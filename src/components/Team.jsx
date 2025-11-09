@@ -1,9 +1,9 @@
 import React from "react";
-import group9 from "../assets/team/group9.png";
+import group9 from "../assets/team/Group9.png";
 import indiaGate from "../assets/team/indiaGate.svg";
-import vector from "../assets/team/vector.svg";
-import vectorTop from "../assets/team/vectorTop.svg";
-import vectorRight from "../assets/team/vectorRight.svg";
+import vector from "../assets/team/Vector.svg";
+import vectorTop from "../assets/team/VectorTop.svg";
+import vectorRight from "../assets/team/VectorRight.svg";
 import group2 from "../assets/team/Group2.svg";
 
 const Team = () => {
